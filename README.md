@@ -104,10 +104,10 @@
 
 ```mermaid
 graph LR
-    A[📚 Learning] --> B[Deep Learning]
-    A --> C[MLOps]
+    A[📚 Learning] --> B[NLP and Transformers]
+    A --> C[Deep Learning]
     A --> D[LLMs & GenAI]
-    A --> I[NLP and Transformers]
+    A --> I[MLOps]
     E[🛠️ Building] --> F[ML Pipelines]
     E --> G[Production Systems]
     E --> H[Real-world Projects]
