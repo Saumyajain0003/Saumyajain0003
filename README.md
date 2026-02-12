@@ -107,6 +107,7 @@ graph LR
     A[📚 Learning] --> B[Deep Learning]
     A --> C[MLOps]
     A --> D[LLMs & GenAI]
+    A --> I[NLP and Transformers]
     E[🛠️ Building] --> F[ML Pipelines]
     E --> G[Production Systems]
     E --> H[Real-world Projects]
