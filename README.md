@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Saumya Jain
 
-### 🚀 Machine Learning Engineer | Data Enthusiast | Building AI Solutions
+### 🚀 Data Enthusiast | Building AI Solutions
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Building+ML+Pipelines+%F0%9F%A4%96;Exploring+Deep+Learning+%F0%9F%A7%A0;Learning+in+Public+%F0%9F%93%A2;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
 
