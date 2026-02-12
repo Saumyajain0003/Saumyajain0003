@@ -85,16 +85,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saumyajain0003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38C2FF&icon_color=38C2FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumyajain0003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38C2FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Saumyajain0003&theme=tokyonight&hide_border=true&background=0D1117&ring=38C2FF&fire=38C2FF&currStreakLabel=38C2FF" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Saumyajain0003&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
