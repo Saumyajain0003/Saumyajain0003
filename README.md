@@ -36,7 +36,6 @@
 </tr>
 </table>
 
-> *"Data is the new oil, but models are the refineries. I'm here to build both."*
 ---
 
 ## 🛠️ Tech Arsenal
@@ -70,14 +69,6 @@
 
 ---
 
-## 🔥 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumyajain0003&bg_color=0D1117&color=38C2FF&line=38C2FF&point=FFFFFF&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
@@ -106,15 +97,5 @@ graph LR
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saumyajain0003)
 
 ### 💬 Open to collaborations, discussions, and opportunities!
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "The best way to learn is to build, test, and iterate in public"
-
-⭐️ From [Saumyajain0003](https://github.com/Saumyajain0003)
 
 </div>
