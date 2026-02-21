@@ -21,7 +21,6 @@
 - 🧪 Experimenting with ML models and pipelines
 - 🏗️ Building production-ready AI solutions
 - 📈 Continuous learning through hands-on projects
-- 🌍 Contributing to open-source ML community
 
 </td>
 <td width="50%">
@@ -38,17 +37,6 @@
 </table>
 
 > *"Data is the new oil, but models are the refineries. I'm here to build both."*
-
-<div align="center">
-
-### 🌟 Core Strengths
-
-| 🐍 Python Expert | 🤖 ML Foundations | 🔄 MLOps | 📊 Data Analysis |
-|:---:|:---:|:---:|:---:|
-| Clean, production code | Model evaluation & tuning | Pipeline automation | Insights from data |
-
-</div>
-
 ---
 
 ## 🛠️ Tech Arsenal
@@ -78,14 +66,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Saumyajain0003&theme=tokyonight&hide_border=true&background=0D1117&ring=38C2FF&fire=38C2FF&currStreakLabel=38C2FF" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -134,8 +114,6 @@ graph LR
 <div align="center">
 
 ### 💡 "The best way to learn is to build, test, and iterate in public"
-
-![Profile Views](https://komarev.com/ghpvc/?username=Saumyajain0003&color=38C2FF&style=for-the-badge)
 
 ⭐️ From [Saumyajain0003](https://github.com/Saumyajain0003)
 
