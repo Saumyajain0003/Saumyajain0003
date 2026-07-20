@@ -68,24 +68,6 @@
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[📚 Learning] --> B[NLP and Transformers]
-    A --> C[Deep Learning]
-    A --> D[LLMs & GenAI]
-    A --> I[MLOps]
-    E[🛠️ Building] --> F[ML Pipelines]
-    E --> G[Production Systems]
-    E --> H[Real-world Projects]
-```
-
-</div>
 
 ---
 
